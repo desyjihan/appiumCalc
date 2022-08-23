@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-23T20:23:13 WIB" name="Default suite" finished-at="2022-08-23T20:24:27 WIB" duration-ms="74403">
+    <groups>
+    </groups>
+    <test started-at="2022-08-23T20:23:13 WIB" name="Default test" finished-at="2022-08-23T20:24:27 WIB" duration-ms="74403">
+      <class name="com.juaracoding.appium.TestCalculator">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.juaracoding.appium.TestCalculator@429bffaa]" started-at="2022-08-23T20:23:13 WIB" name="setUp" finished-at="2022-08-23T20:23:31 WIB" duration-ms="18030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:com.juaracoding.appium.TestCalculator@429bffaa]" started-at="2022-08-23T20:23:31 WIB" name="pageObject" finished-at="2022-08-23T20:23:31 WIB" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="testBagi()[pri:0, instance:com.juaracoding.appium.TestCalculator@429bffaa]" started-at="2022-08-23T20:23:31 WIB" name="testBagi" finished-at="2022-08-23T20:23:45 WIB" duration-ms="13733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBagi -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:com.juaracoding.appium.TestCalculator@429bffaa]" started-at="2022-08-23T20:23:45 WIB" name="pageObject" finished-at="2022-08-23T20:23:45 WIB" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="testKali()[pri:0, instance:com.juaracoding.appium.TestCalculator@429bffaa]" started-at="2022-08-23T20:23:45 WIB" name="testKali" finished-at="2022-08-23T20:23:56 WIB" duration-ms="11416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testKali -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:com.juaracoding.appium.TestCalculator@429bffaa]" started-at="2022-08-23T20:23:56 WIB" name="pageObject" finished-at="2022-08-23T20:23:56 WIB" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="testKurang()[pri:0, instance:com.juaracoding.appium.TestCalculator@429bffaa]" started-at="2022-08-23T20:23:56 WIB" name="testKurang" finished-at="2022-08-23T20:24:07 WIB" duration-ms="11029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testKurang -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:com.juaracoding.appium.TestCalculator@429bffaa]" started-at="2022-08-23T20:24:07 WIB" name="pageObject" finished-at="2022-08-23T20:24:07 WIB" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="testTambah()[pri:0, instance:com.juaracoding.appium.TestCalculator@429bffaa]" started-at="2022-08-23T20:24:07 WIB" name="testTambah" finished-at="2022-08-23T20:24:21 WIB" duration-ms="14144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTambah -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:com.juaracoding.appium.TestCalculator@429bffaa]" started-at="2022-08-23T20:24:21 WIB" name="closeApp" finished-at="2022-08-23T20:24:27 WIB" duration-ms="5885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.juaracoding.appium.TestCalculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
